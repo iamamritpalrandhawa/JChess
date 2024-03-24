@@ -6,7 +6,7 @@ JChess is a Java-based implementation of the classic game of chess. This reposit
 # Features
 
 - Complete chess game logic implemented in Java
-- Command line interface for playing the game
+- Graphical User Interface for playing the game
 - Support for all standard chess rules, except castling and en passant
 - Basic AI opponent for single-player mode
 - Move validation and error handling
